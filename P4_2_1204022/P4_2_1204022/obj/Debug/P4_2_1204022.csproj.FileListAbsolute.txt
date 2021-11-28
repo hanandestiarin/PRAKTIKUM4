@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\P4_2_1204022\P4_2_1204022\bin\Debug\P4_2_1204022.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\P4_2_1204022\P4_2_1204022\bin\Debug\P4_2_1204022.exe
+c:\users\hp\documents\visual studio 2015\Projects\P4_2_1204022\P4_2_1204022\bin\Debug\P4_2_1204022.pdb
+c:\users\hp\documents\visual studio 2015\Projects\P4_2_1204022\P4_2_1204022\obj\Debug\P4_2_1204022.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\P4_2_1204022\P4_2_1204022\obj\Debug\P4_2_1204022.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\P4_2_1204022\P4_2_1204022\obj\Debug\P4_2_1204022.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\P4_2_1204022\P4_2_1204022\obj\Debug\P4_2_1204022.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\P4_2_1204022\P4_2_1204022\obj\Debug\P4_2_1204022.exe
+c:\users\hp\documents\visual studio 2015\Projects\P4_2_1204022\P4_2_1204022\obj\Debug\P4_2_1204022.pdb
